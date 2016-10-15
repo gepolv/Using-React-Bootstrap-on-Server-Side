@@ -13,6 +13,7 @@ Then we include the css file:
 `
 import 'bootstrap/dist/css/bootstrap.css';
 `
+
 To load css, we need some configuration in webpack.config.js:
 
 ```
